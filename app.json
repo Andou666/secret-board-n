@@ -1,0 +1,10 @@
+{
+  "name": "secret-board",
+  "description": "秘密の匿名掲示板",
+  "logo": "",
+  "keywords": ["node"],
+  "image": "heroku/nodejs",
+  "engines": {
+      "node": "~10"
+  }
+}

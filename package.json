@@ -1,0 +1,21 @@
+{
+  "name": "secret-board",
+  "version": "1.0.0",
+  "description": "ヒミツの掲示板",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookies": "^0.8.0",
+    "htpasswd": "^2.4.4",
+    "http-auth": "^3.2.4",
+    "moment-timezone": "^0.5.28",
+    "pg": "^8.0.2",
+    "pg-hstore": "^2.3.3",
+    "pug": "^2.0.4",
+    "sequelize": "^5.21.6"
+  }
+}
